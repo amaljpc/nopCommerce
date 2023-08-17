@@ -1,0 +1,176 @@
+2023-08-16 15:25:30,521:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:25:36,344:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:25:36,344:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:28:25,900:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:28:34,698:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:28:34,698:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:28:43,631:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:28:48,366:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:28:48,366:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:28:51,655:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:47:37,855:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:47:46,530:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:47:46,530:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:47:49,562:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:48:00,796:utilities.customLogger:************* Saving customer info **********
+2023-08-16 15:48:00,796:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 15:48:39,470:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:48:47,860:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:48:47,860:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:49:26,553:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:49:32,602:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:49:32,603:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:49:35,582:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:56:14,307:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:56:24,874:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:56:24,874:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:56:28,387:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:56:58,904:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:57:07,683:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:57:07,683:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:57:11,004:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:57:22,687:utilities.customLogger:************* Saving customer info **********
+2023-08-16 15:57:22,687:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 15:57:23,208:utilities.customLogger:********* Add customer Test Failed ************
+2023-08-16 15:57:57,871:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:58:07,303:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:58:07,303:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:58:10,706:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:58:23,417:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 15:58:33,696:utilities.customLogger:************* Login succesful **********
+2023-08-16 15:58:33,696:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 15:58:37,415:utilities.customLogger:************* Providing customer info **********
+2023-08-16 15:58:59,334:utilities.customLogger:************* Saving customer info **********
+2023-08-16 15:58:59,334:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 15:58:59,698:utilities.customLogger:********* Add customer Test Failed ************
+2023-08-16 16:01:51,691:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:01:58,158:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:01:58,159:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:02:01,510:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:02:23,616:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:02:23,617:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:02:23,895:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:02:23,960:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:04:45,043:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:04:54,052:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:04:54,052:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:04:57,324:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:05:19,363:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:05:19,363:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:05:19,620:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:05:19,734:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:05:40,808:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:05:50,265:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:05:50,266:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:05:53,488:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:07:15,497:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:07:24,184:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:07:24,184:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:07:27,668:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:07:51,503:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:07:51,503:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:07:51,802:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:07:51,919:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:10:20,787:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:10:28,394:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:10:28,395:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:10:36,533:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:10:45,928:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:10:45,928:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:13:37,927:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:13:45,413:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:13:45,413:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:14:30,998:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:14:40,794:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:14:40,794:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:14:47,132:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:14:56,705:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:14:56,705:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:15:03,491:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:15:25,663:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:15:25,663:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:15:25,880:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:15:25,939:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:34:15,815:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:34:26,502:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:34:26,502:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:34:32,008:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:34:56,984:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:35:05,485:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:35:05,485:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:35:15,934:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:35:24,245:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:35:24,245:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:35:30,755:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:35:53,342:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:35:53,343:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:35:53,710:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:35:53,875:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:36:12,025:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:36:16,695:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:36:16,695:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:36:21,641:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:36:55,812:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:36:55,812:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:36:56,139:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:36:56,357:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:37:06,668:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:37:14,408:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:37:14,408:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:37:21,035:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:37:40,791:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:37:40,791:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:37:41,074:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:37:41,144:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:40:11,925:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:40:18,273:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:40:18,273:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:40:23,567:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:40:43,299:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:40:43,299:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:40:43,667:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:40:43,780:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 16:40:50,559:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 16:40:58,924:utilities.customLogger:************* Login succesful **********
+2023-08-16 16:40:58,924:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 16:41:06,278:utilities.customLogger:************* Providing customer info **********
+2023-08-16 16:41:35,763:utilities.customLogger:************* Saving customer info **********
+2023-08-16 16:41:35,763:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 16:41:36,108:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 16:41:36,221:utilities.customLogger:******* Ending Add customer test **********
+2023-08-16 17:12:30,701:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 17:12:39,917:utilities.customLogger:************* Login succesful **********
+2023-08-16 17:12:39,917:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 17:12:49,582:utilities.customLogger:************* Test_003_AddCustomer **********
+2023-08-16 17:12:57,715:utilities.customLogger:************* Login succesful **********
+2023-08-16 17:12:57,715:utilities.customLogger:******* Starting Add Customer Test **********
+2023-08-16 17:13:02,718:utilities.customLogger:************* Providing customer info **********
+2023-08-16 17:13:14,473:utilities.customLogger:************* Saving customer info **********
+2023-08-16 17:13:14,473:utilities.customLogger:********* Add customer validation started *****************
+2023-08-16 17:13:14,692:utilities.customLogger:********* Add customer Test Passed *********
+2023-08-16 17:13:14,754:utilities.customLogger:******* Ending Add customer test **********
+2023-08-17 10:43:40,608:utilities.customLogger:************* SearchCustomerByEmail_004 **********
+2023-08-17 10:43:46,916:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:43:46,917:utilities.customLogger:******* Starting Search Customer By Email **********
+2023-08-17 10:43:48,447:utilities.customLogger:************* searching customer by emailID **********
+2023-08-17 10:51:05,192:utilities.customLogger:************* SearchCustomerByEmail_004 **********
+2023-08-17 10:51:12,302:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:51:12,302:utilities.customLogger:******* Starting Search Customer By Email **********
+2023-08-17 10:52:43,132:utilities.customLogger:************* SearchCustomerByEmail_004 **********
+2023-08-17 10:52:50,412:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:52:50,412:utilities.customLogger:******* Starting Search Customer By Email **********
+2023-08-17 10:52:54,768:utilities.customLogger:************* searching customer by emailID **********
+2023-08-17 10:53:00,279:utilities.customLogger:***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-08-17 10:55:45,235:utilities.customLogger:************* SearchCustomerByName_005 **********
+2023-08-17 10:55:52,264:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:55:52,265:utilities.customLogger:******* Starting Search Customer By Name **********
+2023-08-17 10:56:30,995:utilities.customLogger:************* SearchCustomerByName_005 **********
+2023-08-17 10:56:38,106:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:56:38,106:utilities.customLogger:******* Starting Search Customer By Name **********
+2023-08-17 10:56:41,632:utilities.customLogger:************* searching customer by Name **********
+2023-08-17 10:56:47,227:utilities.customLogger:***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-08-17 10:57:07,186:utilities.customLogger:************* SearchCustomerByName_005 **********
+2023-08-17 10:57:13,447:utilities.customLogger:************* Login succesful **********
+2023-08-17 10:57:13,448:utilities.customLogger:******* Starting Search Customer By Name **********
+2023-08-17 10:57:16,961:utilities.customLogger:************* searching customer by Name **********
+2023-08-17 10:57:22,533:utilities.customLogger:***************  TC_SearchCustomerByName_005 Finished  *********** 
