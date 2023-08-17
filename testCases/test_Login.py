@@ -23,6 +23,8 @@ class Test_001_Login:
     print(baseURL, username, password)
     print(logger)
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_homePageTitle(self, setup):
         self.logger.info("**********Test_001_Login**********")  # test case id - (class name)
         self.logger.info("**********Verify home page title**********")
@@ -38,6 +40,8 @@ class Test_001_Login:
             self.logger.info(f"{10 * '*'}home page title test failed{10 * '*'}")
             assert False
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_Login(self, setup):
 
         self.logger.info("********** Verify Login test **********")
