@@ -59,3 +59,11 @@ pytest -s -v -n=3 --html=Reports/report.html testCases/test_Login.py --browser c
 ```
 choose file path from testcases
 
+#### Grouping the testcases using pytest markers
+- regression<br>
+- sanity<br>
+- sanity or regression<br>
+- sanity and regression<br>
+
+```
+pytest -v -m "sanity" --html=Reports/report.html testCases/ --browser chrome```
