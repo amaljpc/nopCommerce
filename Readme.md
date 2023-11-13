@@ -3,9 +3,10 @@
 Ensure you have **Python 3.7+** installed in your environment.
 
 ```bash
-pip install -U pytest
+pip install pytest
 pip install openpyxl
 pip install selenium
+pip install pytest-html
 ```
 
 ### Running the Python Code
