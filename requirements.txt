@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 pytest
 openpyxl
 selenium
 pytest-html
+=======
+pip install -U pytest
+pip install openpyxl
+pip install selenium
+>>>>>>> origin/master
